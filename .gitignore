@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/src/
+!/src/**
+!/config.example/
+!/config.example/**
