@@ -354,4 +354,6 @@ DNS 영역별 DNSSEC 적용 여부를 정의합니다.
 
 이 프로젝트는 인증서 자동 갱신을 단순한 정기 작업으로 취급하지 않고, DNS 보안, TLS 인증 신뢰, 원격 서버 간 인증서 배포 및 서비스 운영의 연속성을 함께 고려하는 운영 자동화 설계 사례를 공유하는 데 목적이 있습니다.
 
+또한 유사한 자동화 시스템을 직접 구축하려는 개발자에게 설계 방향과 참고 구현을 제공하여, 각자의 운영 환경에 맞는 시스템을 구성할 수 있도록 돕고자 합니다.
+
 **Certificate Renewal, DNSSEC, DANE/TLSA, and Remote Deployment — Managed as One Consistent Security Workflow.**
